@@ -1,0 +1,10 @@
+1. Using the Jenkins build server
+2. Installation and setup of Jenkins
+3. Configure Jenkins
+4. Jenkins management
+5. Setting up a Jenkins job
+6. Build Pipelines
+7. Jenkins backup and copying files
+8. Deleting Jenkins log file
+9. Jenkins links
+10. vogella training and consulting support
